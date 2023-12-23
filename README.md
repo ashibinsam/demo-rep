@@ -2,4 +2,6 @@
 
 Say hi to my practice repository!
 
-Added this line now!
+replaced the existing line in the new feature branch!
+
+Added this in the new feature branch!
